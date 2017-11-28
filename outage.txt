@@ -1,0 +1,41 @@
+User - hello
+BOT  - Hello User
+User - Can you help me in finding the PI configurations?
+BOT  - Sure.. I will be able to help you, which interface are you looking for..?
+User - Can you get me the list of live interfaces on PI?
+BOT  - Do you need all of them or just inbound or outbound interfaces?
+User - I need the list of interfaces connecting to ECC system.
+BOT  - ok sure
+      I have mailed you the details
+User - we have planned for upgrade on ECC systems, how can we hold the transactions during the outage
+BOT  - ok let me plan something and send to you,
+                  I have sent you a plan, please check and let me know if you want me to proceed.
+User - ok will check and get back to you.
+BOT  - ya sure..
+User - ya we are good with this, please proceed.
+BOT  - ok sure I can do that, but when are we planning to start this.
+User - it will start on Sep 20 at 2 am
+BOT  - and when is it going to end
+User - it will end on Sep 21 at 4 pm
+BOT  - ok thanks for the information, will quickly schedule this activity and let you know
+                  I have scheduled the activity and sent you all a meeting invite.
+User - great
+BOT  - cool.. thanks for using me, will be happy to help you..
+===============================================================================================
+Get me the details of all users with SAP Standard Profiles
+ok
+ok Get me the list of users with access to change users and roles
+ok
+I have a question on SAP Standard profile users,can I talk to your technical expert?
+can you setup a meeting to go through this tomorrow?
+*****************now the  bot should ping to TE
+bot hii tee
+hi
+ok can you check my calendar and schedule it?
+ok
+************the bot again ping the message to the auditor (soap ui or jsp page)*************
+bot : msg
+ok
+**************confirmation from TE********************
+I meet the auditor and clarified all his queries, we are good now
+bot: good
